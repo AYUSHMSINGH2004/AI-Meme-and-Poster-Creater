@@ -99,21 +99,30 @@ Open browser at: http://localhost:8501
 
 You can:
 
-a. Add more templates in /templates
-b. Add more fonts in /fonts
-c. Update final_captions.csv to improve caption variety
-d. Modify styling in app.py CSS section
+Add more templates in /templates
+
+Add more fonts in /fonts
+
+Update final_captions.csv to improve caption variety
+
+Modify styling in app.py CSS section
 
 
 📈 Future Improvements
 
-a. Text position selector
-b. Text color picker
-c. Drag-and-drop text placement
-d. Category-based internet backgrounds
-e. Image preview grid layout
-f. User authentication
-g. Meme history storage
+Text position selector
+
+Text color picker
+
+Drag-and-drop text placement
+
+Category-based internet backgrounds
+
+Image preview grid layout
+
+User authentication
+
+Meme history storage
 
 👨‍💻 Author
 
