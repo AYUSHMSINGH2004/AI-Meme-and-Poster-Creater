@@ -15,21 +15,13 @@ Built using **Streamlit**, **Python**, and **Pillow**.
 ## 📌 Features
 
 - 🎭 AI-generated meme captions based on event name
-- 
 - ✍ Manual caption writing option
-- 
 - 🖼 Local template selection
-- 
 - 🌐 Random internet background generation
-- 
 - 🔤 Custom font selection (Google Fonts supported)
-- 
 - 🎚 Adjustable font size
-- 
 - 🖌 Meme-style white text with black outline
-- 
 - ⬇ Download generated poster as PNG
-- 
 - 🌙 Modern Reddit-style dark UI
 
 ---
@@ -37,13 +29,9 @@ Built using **Streamlit**, **Python**, and **Pillow**.
 ## 🛠 Tech Stack
 
 - Python 3.10+
-- 
 - Streamlit
-- 
 - Pandas
-- 
 - Pillow (PIL)
-- 
 - Requests
 
 ---
@@ -89,43 +77,43 @@ Open browser at: http://localhost:8501
 
 🌐 Deployment (Streamlit Cloud)
 
-Push project to GitHub
-Go to https://share.streamlit.io
-Select repository
-Branch: main
-Main file: app.py
-Deploy
+1. Push project to GitHub
+2. Go to https://share.streamlit.io
+3. Select repository
+4. Branch: main
+5. Main file: app.py
+6. Deploy
 
 
 🧠 How It Works
 
-User enters an event name
-App generates AI-based caption suggestions
-User selects or writes their own caption
-User selects template (local or internet)
-Poster is generated using PIL
-Final image can be downloaded
+1. User enters an event name
+2. App generates AI-based caption suggestions
+3. User selects or writes their own caption
+4. User selects template (local or internet)
+5. Poster is generated using PIL
+6. Final image can be downloaded
 
 
 🎨 Customization
 
 You can:
 
-Add more templates in /templates
-Add more fonts in /fonts
-Update final_captions.csv to improve caption variety
-Modify styling in app.py CSS section
+a. Add more templates in /templates
+b. Add more fonts in /fonts
+c. Update final_captions.csv to improve caption variety
+d. Modify styling in app.py CSS section
 
 
 📈 Future Improvements
 
-Text position selector
-Text color picker
-Drag-and-drop text placement
-Category-based internet backgrounds
-Image preview grid layout
-User authentication
-Meme history storage
+a. Text position selector
+b. Text color picker
+c. Drag-and-drop text placement
+d. Category-based internet backgrounds
+e. Image preview grid layout
+f. User authentication
+g. Meme history storage
 
 👨‍💻 Author
 
