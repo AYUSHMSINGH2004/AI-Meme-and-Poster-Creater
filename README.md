@@ -74,44 +74,34 @@ streamlit run app.py
 
 Open browser at: http://localhost:8501
 
+
 🌐 Deployment (Streamlit Cloud)
 
 Push project to GitHub
-
 Go to https://share.streamlit.io
-
 Select repository
-
 Branch: main
-
 Main file: app.py
-
 Deploy
+
 
 🧠 How It Works
 
 User enters an event name
-
 App generates AI-based caption suggestions
-
 User selects or writes their own caption
-
 User selects template (local or internet)
-
 Poster is generated using PIL
-
 Final image can be downloaded
+
 
 🎨 Customization
 
 You can:
 
 Add more templates in /templates
-
 Add more fonts in /fonts
-
 Update final_captions.csv to improve caption variety
-
 Modify styling in app.py CSS section
 
 
