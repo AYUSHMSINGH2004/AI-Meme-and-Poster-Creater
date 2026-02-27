@@ -15,13 +15,21 @@ Built using **Streamlit**, **Python**, and **Pillow**.
 ## 📌 Features
 
 - 🎭 AI-generated meme captions based on event name
+- 
 - ✍ Manual caption writing option
+- 
 - 🖼 Local template selection
+- 
 - 🌐 Random internet background generation
+- 
 - 🔤 Custom font selection (Google Fonts supported)
+- 
 - 🎚 Adjustable font size
+- 
 - 🖌 Meme-style white text with black outline
+- 
 - ⬇ Download generated poster as PNG
+- 
 - 🌙 Modern Reddit-style dark UI
 
 ---
@@ -29,9 +37,13 @@ Built using **Streamlit**, **Python**, and **Pillow**.
 ## 🛠 Tech Stack
 
 - Python 3.10+
+- 
 - Streamlit
+- 
 - Pandas
+- 
 - Pillow (PIL)
+- 
 - Requests
 
 ---
